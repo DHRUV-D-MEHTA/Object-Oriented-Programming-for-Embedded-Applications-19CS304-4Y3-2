@@ -70,15 +70,13 @@ public class LargestElement {
    }
 }
 
+```
 
 ## OUTPUT
 
 ![Program Output Screenshot](Screenshot%202025-08-19%20085158.png)
 
 
-RESULT:
-Thus, the largest element in an array using java program is developed, and the output is verified.
-
-
-After finishing, click File > Exit to close Eclipse IDE.
+## RESULT
+Thus, the largest element in an array using Java program is developed, and the output is verified.
 
