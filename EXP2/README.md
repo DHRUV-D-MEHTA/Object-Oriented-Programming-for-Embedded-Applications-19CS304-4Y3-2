@@ -114,7 +114,8 @@ OUTPUT:
 
 ## OUTPUT
 
-![Program Output Screenshot]([output_screenshot.png](https://raw.githubusercontent.com/DHRUV-D-MEHTA/Object-Oriented-Programming-for-Embedded-Applications-19CS304-4Y3-2/706a5966d091cec6451a10378af12ed8f3207752/EXP2/Screenshot%202025-08-19%20085158.png))
+![Program Output Screenshot](Screenshot%202025-08-19%20085158.png)
+
 
 RESULT:
 Thus, the largest element in an array using java program is developed, and the output is verified.
